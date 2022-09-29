@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hello there 👋
+### Wellcome to my Git.
 
-<!--
-**sanjotsingh10/sanjotsingh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **AI Enthusiast** I am currently trying to master AI by learning new concepts and working on various projects.
 
-Here are some ideas to get you started:
+Here you will find information about all the projects I have completed and also the projects I am currently working on.
+Feel free to explore and try not to stumble :wink:.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ***May the code be with you!!***
+
+
+## Emotion Analysis
+**NLP** based project in which I used tweets from twitter to train a model which can Extract emotions from a given text.
+
+[link to Python notebook](/../emotion-analysis/emotion_analysis.ipynb)
+
+## Medical Cost Prediction
+Code to predict medical cost of the patients through multiple regression techniques using the information of the patients provided.
+
+[link to Python notebook](/../Medical-Cost-Prediction/Medical_Cost_Prediction.ipynb)
+
+## Plant species prediction
+used decision tree algorithm on the iris dataset to train a model which can predict the species of the flower using the features.
+
+[link to Python notebook](https://github.com/sanjotsingh10/Plant-species-Prediction/blob/main/Prediction%20using%20Decision%20Tree%20%20Algorithm.ipynb)
